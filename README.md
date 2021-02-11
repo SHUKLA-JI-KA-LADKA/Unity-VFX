@@ -3,7 +3,7 @@ Unity VFX & Assets
 
 
 # Introduction
-                                                      VFX and particles system made by me.
+                                            VFX and particles system made by me.
 
 
 
@@ -15,5 +15,4 @@ Unity VFX & Assets
 
 
 
-
-                                                      will upload more gradually.
+                                            will upload more gradually.
